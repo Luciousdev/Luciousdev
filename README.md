@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Luciousdev](https://github.com/Luciousdev)
 
-- 📫 My discord for contact: **Lucious.#0001**
+- 📫 My discord for contact: **Lucy_Sweets#0001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
