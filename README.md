@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/luciousss01" target="blank"><img src="https://img.shields.io/twitter/follow/luciousss01?logo=twitter&style=for-the-badge" alt="luciousss01" /></a> </p>
 
-- 🔭 I’m currently working on [PrivLine OS](https://github.com/Luciousdev/Privline-OS)
+- 🔭 I’m currently working on [Weather App](https://github.com/Luciousdev/Weather-app)
 
 - 🌱 I’m currently learning **python, c# and c++**
 
