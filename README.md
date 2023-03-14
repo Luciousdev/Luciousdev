@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Weather App](https://github.com/Luciousdev/Weather-app)
 
-- 🌱 I’m currently learning **python, , laravel, c# and c++**
+- 🌱 I’m currently learning **python, , laravel and c#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Luciousdev](https://github.com/Luciousdev)
 
