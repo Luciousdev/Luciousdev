@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/luciousss01" target="blank"><img src="https://img.shields.io/twitter/follow/luciousss01?logo=twitter&style=for-the-badge" alt="luciousss01" /></a> </p>
 
-- 🔭 I’m currently working on [Weather App](https://github.com/Luciousdev/Weather-app)
+- 🔭 I’m currently working on [PC Diagnostic and benchmark tool](https://github.com/Luciousdev/pc-test)
 
-- 🌱 I’m currently learning **rust and laravel**
+- 🌱 I’m currently learning **laravel, shell and batchscript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Luciousdev](https://github.com/Luciousdev)
 
