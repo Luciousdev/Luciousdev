@@ -2,16 +2,12 @@
 
 # Hi 👋! My name is Lucy and I'm a backend developer, from The Netherlands.
 
-
 <img align="right" height="150" src="https://media.licdn.com/dms/image/D4E03AQHF3lL8pBScrA/profile-displayphoto-shrink_800_800/0/1695225439784?e=1701302400&v=beta&t=baB_Vfd-JHl6_b54dYqxqq-SzgEfLVf58xRsNbD17tY"  />
-🔭 I’m currently working on: Project-Mika (Mika Linux)<br>🤝 I’m looking for help with: Project-Mika<br>🌱 I’m currently learning: OctoberCMS<br>💬 Ask me about: Anything
+🔭 I’m currently working on: Project-Mika (Mika Linux)<br>🤝 I’m looking for help with: Project-Mika<br>🌱 I’m currently learning: OctoberCMS, OS Development, Better frontend skills<br>💬 Ask me about: Anything
 
-#### 🌐 Socials:
-
+### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucypuyenbroek) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AmIreal-IDK) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lucy_sweets) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Luciousss01) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCfXG6v_2FtasXlGk_FftjkQ)
-
-
 
 # 💻 Tech Stack:
 
