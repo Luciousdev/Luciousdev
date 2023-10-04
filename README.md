@@ -83,7 +83,6 @@
 
 ![img](https://github-readme-stats.vercel.app/api?username=luciousdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![img](https://github-readme-streak-stats.herokuapp.com/?user=luciousdev&theme=dark&hide_border=true)
-![img](https://github-readme-stats.vercel.app/api/top-langs/?username=luciousdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
