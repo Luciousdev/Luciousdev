@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciousdev&label=Profile%20views&color=0e75b6&style=flat" alt="luciousdev" /> </p>
 
-# Hi 👋! My name is Lucy and I'm a backend developer, from The Netherlands.
+# Hi 👋! My name is Lucy and I'm a Full-stack developer, from The Netherlands.
 
 <img align="right" height="150" src="https://media.licdn.com/dms/image/D4E03AQHF3lL8pBScrA/profile-displayphoto-shrink_800_800/0/1695225439784?e=1701302400&v=beta&t=baB_Vfd-JHl6_b54dYqxqq-SzgEfLVf58xRsNbD17tY"  />
 🔭 I’m currently working on: Project-Mika (Mika Linux)<br>🤝 I’m looking for help with: Project-Mika<br>🌱 I’m currently learning: OctoberCMS, OS Development, Better frontend skills<br>💬 Ask me about: Anything
