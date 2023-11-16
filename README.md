@@ -81,8 +81,8 @@
 
 # 📊 GitHub Stats:
 
-![img](https://github-readme-stats.vercel.app/api?username=luciousdev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![img](https://github-readme-streak-stats.herokuapp.com/?user=luciousdev&theme=dark&hide_border=true)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luciousdev&theme=github_dark) 
 
 ## 🏆 GitHub Trophies
