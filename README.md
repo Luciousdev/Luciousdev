@@ -84,7 +84,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP               4 hrs 49 mins   ███████████░░░░░░░░░░░░░░   43.40 %
+Blade Template    2 hrs 48 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.21 %
+HTML              1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+Bash              45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Python            35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 ```
 
 <!--END_SECTION:waka-->
