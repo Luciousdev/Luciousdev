@@ -84,11 +84,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSS              22 mins         ████████░░░░░░░░░░░░░░░░░   31.76 %
-PHP              17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-Blade Template   12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
-GitIgnore file   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-SCSS             3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
