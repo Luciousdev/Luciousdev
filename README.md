@@ -84,7 +84,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML             8 mins          ██████████████░░░░░░░░░░░   56.37 %
+PHP              6 mins          ███████████░░░░░░░░░░░░░░   43.62 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
