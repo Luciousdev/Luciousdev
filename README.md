@@ -84,11 +84,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           2 hrs 11 mins   ███████████████▓░░░░░░░░░   62.15 %
-Blade Template   31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-PHP              21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-GitIgnore file   18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-Markdown         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Python             1 hr 52 mins    ██████████████░░░░░░░░░░░   56.61 %
+Blade Template     31 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+PHP                21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+GitIgnore file     16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+textmate           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
