@@ -84,7 +84,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP              4 mins          ██████████████████████▓░░   90.93 %
+Markdown         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+JSON             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
