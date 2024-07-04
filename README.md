@@ -84,11 +84,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           16 mins         █████████████░░░░░░░░░░░░   51.48 %
-Blade Template   12 mins         █████████▒░░░░░░░░░░░░░░░   37.98 %
-PHP              3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Blade Template   12 mins         ███████████████████▓░░░░░   78.95 %
+PHP              3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
