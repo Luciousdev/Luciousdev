@@ -130,5 +130,5 @@
 
 ## 🏆 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/Luciousdev/Luciousdev/github-metrics.svg" alt="Github Stats" />
+<img src="https://raw.githubusercontent.com/Luciousdev/Luciousdev/refs/heads/main/github-metrics.svg" alt="Github Stats" />
 
