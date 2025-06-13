@@ -128,12 +128,7 @@
 
 ###
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Stats
 
-![](https://github-profile-trophy.vercel.app/?username=luciousdev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<img src="https://raw.githubusercontent.com/Luciousdev/Luciousdev/github-metrics.svg" alt="Github Stats" />
 
-![](https://github-contributor-stats.vercel.app/api?username=luciousdev&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
